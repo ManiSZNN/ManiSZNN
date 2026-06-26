@@ -1,9 +1,9 @@
-### Hey I'm Jayden
+# Hey I'm Jayden
 
-# I am an attendee of Marist High School in Chicago
+### I am a rising senior at Marist High School in Chicago and hold a passion for electrical engineering 
 
-# I am interested in Electrical Engineering and hope this page can serve as a demonstration of my skills
+#### I hope this page can serve as a demonstration of my skills 
 
 
 
-![alt text](<june-22-ds-038r (1)-1.jpg>)
+![alt text](IMG_0201.jpg) 
